@@ -1,8 +1,37 @@
+:root {
+  box-sizing: border-box;
+}
+
 html, body {
   margin: 0;
   padding: 0;
+  background-color: #ccc;
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
 }
 
-canvas {
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.buttons-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1em;
+}
+
+button {
   display: block;
+  appearance: none;
+  border: 3px solid white;
+  border-radius: 8px;
+  color: white;
+  background-color: red;
+  padding: 2em;
+}
+
+.respawn {
+  background-color: green;
 }
