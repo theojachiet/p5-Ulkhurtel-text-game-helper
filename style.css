@@ -29,6 +29,9 @@ ul {
 
 section {
   flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 /* BUTTONS  */
@@ -126,4 +129,12 @@ li:nth-child(even) {
   background-color:cornflowerblue;
   font-weight: bold;
   padding: 0.5em;
+}
+
+/* CANVAS  */
+canvas {
+  display: inline;
+  position: relative;
+  top: 100px;
+  left: 0px;
 }
