@@ -1,0 +1,155 @@
+[
+  {
+    "time": 0,
+    "temperature": -10,
+    "gravity": 1.0,
+    "events": [
+      "Début de boucle"
+    ]
+  },
+  {
+    "time": 1,
+    "temperature": -13,
+    "gravity": 1.0,
+    "events": []
+  },
+  {
+    "time": 2,
+    "temperature": -16,
+    "gravity": 1.0,
+    "events": [
+      "Eau trop haute pour atteindre les ruines noyées"
+    ]
+  },
+  {
+    "time": 3,
+    "temperature": -18,
+    "gravity": 1.0,
+    "events": []
+  },
+  {
+    "time": 4,
+    "temperature": -21,
+    "gravity": 1.0,
+    "events": []
+  },
+  {
+    "time": 5,
+    "temperature": -24,
+    "gravity": 0.3,
+    "events": [
+      "Inversion de gravité (phase nova)",
+      "Chemin suspendu vers le rocher du Dahu s'élève \n (est inaccessible mais visible)"
+    ]
+  },
+  {
+    "time": 6,
+    "temperature": -26,
+    "gravity": 0.5,
+    "events": [
+      "Explosion des détonateurs",
+      "Salle capsule inaccessible",
+      "Gouffre des cérémonies accessible",
+      "Mine inaccessible depuis l'extérieur",
+      "Sortie de Mine inaccessible"
+    ]
+  },
+  {
+    "time": 7,
+    "temperature": -29,
+    "gravity": 0.5,
+    "events": [
+      "Dernier Rayon de soleil frappe la porte de l'atelier du Canyon"
+    ]
+  },
+  {
+    "time": 8,
+    "temperature": -32,
+    "gravity": 0.5,
+    "events": [
+      "Soleil se couche définitivement",
+      "Les sources de chaleur gèlent et commencent à exploser \n plus régulièrement"
+    ]
+  },
+  {
+    "time": 9,
+    "temperature": -34,
+    "gravity": 0.5,
+    "events": [
+      "Début de la procession du prophète au second cardinal"
+    ]
+  },
+  {
+    "time": 10,
+    "temperature": -37,
+    "gravity": 1.0,
+    "events": [
+      "Inversion de gravité (phase singulaire)",
+      "La porte vers la capsule du glacier gèle",
+      "Le prophète progresse dans le puit numéro 2"
+    ]
+  },
+  {
+    "time": 11,
+    "temperature": -40,
+    "gravity": 1.0,
+    "events": [
+      "Le Rayon tachyonique rentre dans le puit"
+    ]
+  },
+  {
+    "time": 12,
+    "temperature": -43,
+    "gravity": 1.0,
+    "events": [
+      "Anomalie gravitationelle"
+    ]
+  },
+  {
+    "time": 13,
+    "temperature": -45,
+    "gravity": 1.0,
+    "events": [
+      "Les cascades du cirque gèlent \n (chemin vers le rocher du dahu accessible)"
+    ]
+  },
+  {
+    "time": 14,
+    "temperature": -48,
+    "gravity": 1.0,
+    "events": []
+  },
+  {
+    "time": 15,
+    "temperature": -51,
+    "gravity": 0.3,
+    "events": [
+      "Inversion de gravité (phase nova)",
+      "Chemin suspendu vers le rocher du Dahu s'élève"
+    ]
+  },
+  {
+    "time": 16,
+    "temperature": -54,
+    "gravity": 0.5,
+    "events": [
+      "Lac gelé traversable"
+    ]
+  },
+  {
+    "time": 17,
+    "temperature": -57,
+    "gravity": 0.5,
+    "events": [
+      "Les joueurs meurent de froid"
+    ]
+  },
+  {
+    "time": 18,
+    "temperature": -60,
+    "gravity": 0.5,
+    "events": [
+      "Explosion de la montagne"
+    ]
+  }
+]
